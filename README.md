@@ -38,4 +38,3 @@ python examples/train_magnitude_v1.py
 MIT. Built for the bold.
 
 ---
-*Developed by Mohammad Alkhaldi & Lana AI. Part of the 12-Week Viral Repo Initiative.*

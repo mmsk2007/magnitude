@@ -18,7 +18,7 @@ def lana_insights(energy_level):
 
 def main():
     print("🌌 MAGNITUDE v0.1.0 - The Physics of Price")
-    print("Developed by Mohammad Alkhaldi & Lana AI\n")
+    print("\n")
     
     loader = MagnitudeLoader("BTC-USD")
     data = loader.fetch()
