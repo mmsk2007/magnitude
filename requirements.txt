@@ -1,0 +1,8 @@
+torch
+pandas
+pandas_ta
+yfinance
+ccxt
+scikit-learn
+matplotlib
+wandb
